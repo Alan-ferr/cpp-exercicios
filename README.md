@@ -14,6 +14,8 @@ cpp-exercicios/
 ├── lista4/    # Soma de primos por dígito final
 ├── lista5/    # MDC/MMC, maior divisor primo, twin primes, fórmula de Euler
 ├── lista6/    # Fibonacci, k-primos gêmeos, Conjectura de Goldbach, vetores
+├── lista7/    # Verifica afirmação, Contagem primos
+├── lista8/    # Maximo divisor primo, Numeros amigos, Soma primos terminados em 9
 ├── provas/    # Exercícios avaliativos feitos em classe
 └── obi2008/   # Problemas da OBI 2008 (nível júnior)
 ```
